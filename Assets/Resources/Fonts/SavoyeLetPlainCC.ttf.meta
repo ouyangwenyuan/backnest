@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d621e96f228a97848bf1f6d2aa1143db
+timeCreated: 1491977738
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: .Savoye LET CC.
+  fontNames:
+  - .Savoye LET CC.
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

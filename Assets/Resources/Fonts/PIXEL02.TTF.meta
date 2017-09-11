@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 693358b5a5e62934781b0f5b667b49a8
+timeCreated: 1492424129
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 04b_08
+  fontNames:
+  - 04b_08
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
